@@ -1,5 +1,4 @@
 # Dental_health_model
-Category 2 Task 1
 Step 1: Data Collection and Preparation
 Explanation:
 This step involves creating a dataset that includes relevant variables related to dental health, such as brushing frequency, flossing habits, sugar consumption, and indicators of dental health. The data is then cleaned and prepared for analysis, addressing issues like missing values, outliers, and converting categorical variables into numerical formats.
